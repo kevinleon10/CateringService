@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/catering_service_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.hatchworks.cateringservice.view.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/actionDetail"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.hatchworks.cateringservice.view.DetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_detail">
+        <action
+            android:id="@+id/actionHome"
+            app:destination="@id/homeFragment" />
+        <argument
+            android:name="cateringService"
+            app:argType="com.hatchworks.cateringservice.model.CateringService" />
+    </fragment>
+    <fragment
+        android:id="@+id/ordersFragment"
+        android:name="com.hatchworks.cateringservice.view.OrdersFragment"
+        android:label="fragment_orders"
+        tools:layout="@layout/fragment_orders"/>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.hatchworks.cateringservice.view.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

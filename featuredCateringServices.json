@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Hire for this week",
+    "cateringServices": [
+      {
+        "name": "The Island",
+        "type": "Fusion cuisine",
+        "imageUrls": ["https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png"],
+        "pricePerGuest": 25,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. In eget sodales leo. Etiam quis quam leo. Duis placerat scelerisque molestie. Proin ullamcorper laoreet ante ac viverra. Sed elementum tempor elit.",
+        "preparationTime": "30 min",
+        "minimumGuests": 10,
+        "maximumGuests": 20,
+        "priceRange": "$$",
+        "menu": {
+          "foodTimes": [
+            {
+              "name": "Breakfast",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Lunch",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Dinner",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            }
+          ]
+        },
+        "timeAvailability": ["May 16 at 11:30 am", "May 17 at 11:30 am", "May 18 at 11:30 am"]
+      },
+      {
+        "name": "The Island",
+        "type": "Fusion cuisine",
+        "imageUrls": ["https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png"],
+        "pricePerGuest": 25,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. In eget sodales leo. Etiam quis quam leo. Duis placerat scelerisque molestie. Proin ullamcorper laoreet ante ac viverra. Sed elementum tempor elit.",
+        "preparationTime": "30 min",
+        "minimumGuests": 10,
+        "maximumGuests": 20,
+        "priceRange": "$$",
+        "menu": {
+          "foodTimes": [
+            {
+              "name": "Breakfast",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Lunch",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Dinner",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            }
+          ]
+        },
+        "timeAvailability": ["May 16 at 11:30 am", "May 17 at 11:30 am", "May 18 at 11:30 am"]
+      }
+    ]
+  },
+  {
+    "title": "Most Popular",
+    "cateringServices": [
+      {
+        "name": "The Island",
+        "type": "Fusion cuisine",
+        "imageUrls": ["https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png"],
+        "pricePerGuest": 25,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. In eget sodales leo. Etiam quis quam leo. Duis placerat scelerisque molestie. Proin ullamcorper laoreet ante ac viverra. Sed elementum tempor elit.",
+        "preparationTime": "30 min",
+        "minimumGuests": 10,
+        "maximumGuests": 20,
+        "priceRange": "$$",
+        "menu": {
+          "foodTimes": [
+            {
+              "name": "Breakfast",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Lunch",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Dinner",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            }
+          ]
+        },
+        "timeAvailability": ["May 16 at 11:30 am", "May 17 at 11:30 am", "May 18 at 11:30 am"]
+      },
+      {
+        "name": "The Island",
+        "type": "Fusion cuisine",
+        "imageUrls": ["https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png", "https://user-images.githubusercontent.com/26756500/83364422-78f81900-a35e-11ea-9b41-93c3339b1676.png"],
+        "pricePerGuest": 25,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. In eget sodales leo. Etiam quis quam leo. Duis placerat scelerisque molestie. Proin ullamcorper laoreet ante ac viverra. Sed elementum tempor elit.",
+        "preparationTime": "30 min",
+        "minimumGuests": 10,
+        "maximumGuests": 20,
+        "priceRange": "$$",
+        "menu": {
+          "foodTimes": [
+            {
+              "name": "Breakfast",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Lunch",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            },
+            {
+              "name": "Dinner",
+              "saucers": [
+                {
+                  "name": "Locust",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559098-60a88a80-bf18-11ea-9953-93d942576dda.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Fish",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559094-5e463080-bf18-11ea-9139-4e1824a4d0db.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                },
+                {
+                  "name": "Sushi",
+                  "type": "Main Dish",
+                  "imageUrl": "https://user-images.githubusercontent.com/26756500/86559099-61d9b780-bf18-11ea-9e02-af781e8e56d3.png",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius ornare est ac pretium. "
+                }
+              ]
+            }
+          ]
+        },
+        "timeAvailability": ["May 16 at 11:30 am", "May 17 at 11:30 am", "May 18 at 11:30 am"]
+      }
+    ]
+  }
+]
