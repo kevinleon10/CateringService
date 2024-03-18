@@ -37,6 +37,7 @@ class UpcomingOrdersViewModelTest {
         MockitoAnnotations.initMocks(this)
     }
 
+    // TODO: Fix test
     @Test
     fun getUpcomingOrdersSuccess() {
         val upcomingOrder = UpcomingOrder("name", "date", "imageUrl", 10, 10)
@@ -56,6 +57,7 @@ class UpcomingOrdersViewModelTest {
         Assert.assertEquals(false, upcomingOrdersViewModel.loading.value)
     }
 
+    // TODO: Fix test
     @Test
     fun getUpcomingOrdersFail(){
         testSingle = Single.error(Throwable())

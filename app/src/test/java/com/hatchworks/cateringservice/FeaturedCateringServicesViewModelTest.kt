@@ -32,11 +32,13 @@ class FeaturedCateringServicesViewModelTest {
 
     private var testSingle: Single<List<FeaturedCateringService>>? = null
 
+    // TODO: Fix test
     @Before
     fun setup() {
         MockitoAnnotations.initMocks(this)
     }
 
+    // TODO: Fix test
     @Test
     fun getCateringServicesSuccess() {
         val cateringService = CateringService(
